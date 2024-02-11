@@ -1,4 +1,5 @@
 *.html linguist-detectable=false
 *.swift linguist-detectable=false
 
-*.java linguist-language=Java
+*.html linguist-language=Java
+*.swift linguist-language=Java
