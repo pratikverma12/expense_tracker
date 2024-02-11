@@ -1,4 +1,2 @@
-*.html linguist-detectable=false
-*.swift linguist-detectable=false
-
-*.dart linguist-language=Java
+*.html linguist-language=Dart
+*.swift linguist-language=Dart
